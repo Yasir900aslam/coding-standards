@@ -284,3 +284,16 @@ pageComponent.renderUserData = function pageComponentRenderUserData() {
 };
 //...
 ```
+
+##Some Rules must Follow:
+* Name your files logically according to the job that they perform.
+* Always write test cases for your code. Its saves time.
+* Destructuring your props is a good way to help make your coder cleaner and more maintainable.
+* Putting imports in an order
+    * React import
+    * Library imports (Alphabetical order)
+    * Absolute imports from the project (Alphabetical order)
+    * Relative imports (Alphabetical order)
+    * Import * as
+    * Import ‘./<some file>.<some extension>
+
