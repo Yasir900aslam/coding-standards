@@ -285,7 +285,7 @@ pageComponent.renderUserData = function pageComponentRenderUserData() {
 //...
 ```
 
-##Some Rules must Follow:
+##  Some Rules must Follow:
 * Name your files logically according to the job that they perform.
 * Always write test cases for your code. Its saves time.
 * Destructuring your props is a good way to help make your coder cleaner and more maintainable.
